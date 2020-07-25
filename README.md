@@ -8,7 +8,7 @@
   <a href="http://farmfork.herokuapp.com/">CropOnSale (Recent Project)</a>
 </p>
 
-Hola! 👋, I'm Chandu Siddartha Reddy, a Software developer living near Banglore, specialized in **Python** and **Flask & Django (Python Frameworks)**.
+Hola! 👋, I'm Chandu Siddartha Reddy, a Software developer living near Bengaluru, specialized in **Python** and **Flask & Django (Python Frameworks)**.
 
 I've been a **Python Programmer**, since **November 2018**. 
 
