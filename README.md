@@ -14,15 +14,26 @@ I've been a **Python Programmer**, since **November 2018**.
 
 I’m currently working on Crop On Sale, a web application and will act as an interface between customers and farmers. Crop On Sale the initiative of providing fresh organic food to the customers at their doorsteps with free home delivery and with premium quality and rates specified by the government. Crop On Sale provides a market chain to farmers by collecting their products in fresh form and delivering them to the customers. The quality of products and satisfaction of the customer is the primary aim of our application.
 
+Skills:
+- Python, C, Java
+- HTML, CSS, JavaScript & Bootstrap
+- Flask & Django (Python Frameworks)
+- MongoDB, SQLite3, Postgres
+- Public Speaking
+
 I like to:
 - develop the software that would solve the real problems and makes the world a better place.
 - flexibility and trust: I work for people that care about outcomes
 - push my limits in competitive programming
 - help the community around me by sharing my knownlodge
 
-[![siddartha's github stats](https://github-readme-stats.vercel.app/api?username=siddartha19&hide=issues&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" style="width: 1000px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddartha19&title_color=fff&text_color=9f9f9f&bg_color=151515" alt="Siddartha's github stats" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddartha19)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=siddartha19&hide=issues&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=40" />
+</a>
 
 ### How to reach me:
 - I am active on [LinkedIn](https://www.linkedin.com/in/siddartha19/)
