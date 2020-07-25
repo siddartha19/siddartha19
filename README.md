@@ -1,4 +1,4 @@
-# siddartha19
+# Chandu Siddartha Reddy Gooty
 ![logo](https://github.com/siddartha19/siddartha19/blob/master/Software%20Developer.png)
 
 <p align="center">
