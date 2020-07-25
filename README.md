@@ -20,7 +20,9 @@ I like to:
 - push my limits in competitive programming
 - help the community around me by sharing my knownlodge
 
-
 [![siddartha's github stats](https://github-readme-stats.vercel.app/api?username=siddartha19&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddartha19)](https://github.com/anuraghazra/github-readme-stats)
+
+### How to reach me:
+- I am active on [LinkedIn](https://www.linkedin.com/in/siddartha19/)
