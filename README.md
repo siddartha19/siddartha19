@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/siddartha19/">LinkedIn</a> -
   <a href="https://www.stopstalk.com/user/profile/siddartha19">Stop Stalk</a> -
   <a href="https://www.codechef.com/users/chandu519">CodeChef</a> -
-  <a href="http://farmfork.herokuapp.com/">CropOnSale (Recent Project)</a> -
+  <a href="http://farmfork.herokuapp.com/">CropOnSale (Recent Project)</a>
 </p>
 
 Hola! 👋, I'm Chandu Siddartha Reddy, a Software developer living near Banglore, specialized in **Python** and **Flask & Django (Python Frameworks)**.
@@ -22,3 +22,5 @@ I like to:
 
 
 [![siddartha's github stats](https://github-readme-stats.vercel.app/api?username=siddartha19&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddartha19)](https://github.com/anuraghazra/github-readme-stats)
