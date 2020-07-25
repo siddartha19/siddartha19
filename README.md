@@ -28,7 +28,7 @@ I like to:
 - help the community around me by sharing my knownlodge
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" style="width: 1000px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddartha19&title_color=fff&text_color=9f9f9f&bg_color=151515" alt="Siddartha's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddartha19&title_color=fff&text_color=9f9f9f&bg_color=151515&hide=jupyter%20notebook" alt="Siddartha's github stats" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
