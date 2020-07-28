@@ -8,9 +8,7 @@
   <a href="http://farmfork.herokuapp.com/">CropOnSale (Recent Project)</a>
 </p>
 
-I'm, a Software developer living near Bengaluru, specialized in **Python** and **Flask & Django (Python Frameworks)**.
-
-I've been a **Python Programmer**, since **November 2018**. 
+I'm, a Software developer living near Bengaluru, specialized in **Python** and **Flask & Django (Python Frameworks)**. I've been a **Python Programmer**, since **November 2018**. 
 
 I’m currently working on Crop On Sale, a web application and will act as an interface between customers and farmers. Crop On Sale the initiative of providing fresh organic food to the customers at their doorsteps with free home delivery and with premium quality and rates specified by the government. Crop On Sale provides a market chain to farmers by collecting their products in fresh form and delivering them to the customers. The quality of products and satisfaction of the customer is the primary aim of our application.
 
@@ -35,5 +33,7 @@ I like to:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=siddartha19&hide=issues&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=40" />
 </a>
 
-### How to reach me:
-- I am active on [LinkedIn](https://www.linkedin.com/in/siddartha19/)
+### Find me around the web 🌎 :
+- Social Networking [LinkedIn](https://www.linkedin.com/in/siddartha19/)
+- Coding Handles [CodeChef](https://www.codechef.com/users/chandu519)
+- Recent Project [CropOnSale](http://farmfork.herokuapp.com/)
