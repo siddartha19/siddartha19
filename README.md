@@ -1,4 +1,4 @@
-# Chandu Siddartha Reddy Gooty
+# Hola! 👋, I'm Chandu Siddartha Reddy Gooty
 ![logo](https://github.com/siddartha19/siddartha19/blob/master/Software%20Developer.png)
 
 <p align="center">
@@ -8,7 +8,7 @@
   <a href="http://farmfork.herokuapp.com/">CropOnSale (Recent Project)</a>
 </p>
 
-Hola! 👋, I'm Chandu Siddartha Reddy, a Software developer living near Bengaluru, specialized in **Python** and **Flask & Django (Python Frameworks)**.
+I'm, a Software developer living near Bengaluru, specialized in **Python** and **Flask & Django (Python Frameworks)**.
 
 I've been a **Python Programmer**, since **November 2018**. 
 
@@ -32,7 +32,7 @@ I like to:
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=siddartha19&hide=issues&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=32" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=siddartha19&hide=issues&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=47" />
 </a>
 
 ### How to reach me:
