@@ -36,4 +36,3 @@ I like to:
 ### Find me around the web 🌎 :
 - Social Networking [LinkedIn](https://www.linkedin.com/in/siddartha19/)
 - Coding Handles [CodeChef](https://www.codechef.com/users/chandu519)
-- Recent Project [CropOnSale](http://farmfork.herokuapp.com/)
