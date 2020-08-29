@@ -23,7 +23,7 @@ I like to:
 - develop the software that would solve the real problems and makes the world a better place.
 - flexibility and trust: I work for people that care about outcomes
 - push my limits in competitive programming
-- help the community around me by sharing my knownlodge
+- help the community around me by sharing my knowledge
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddartha19&title_color=fff&text_color=9f9f9f&bg_color=151515&hide=jupyter%20notebook" alt="Siddartha's github stats" />
