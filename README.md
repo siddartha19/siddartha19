@@ -8,9 +8,9 @@
   <a href="http://farmfork.herokuapp.com/">CropOnSale (Recent Project)</a>
 </p>
 
-I'm, a Software developer living near Bengaluru, specialized in **Python** and **Flask & Django (Python Frameworks)**. I've been a **Python Programmer**, since **November 2018**.
+I'm, a Software developer living near Bengaluru, specialized in **Python** **Flask & Django (Python Frameworks)**. I've been a **Python Programmer**, since **November 2018**. 
 
-I’m currently working on Crop On Sale, a web application and will act as an interface between customers and farmers. Crop On Sale the initiative of providing fresh organic food to the customers at their doorsteps with free home delivery and with premium quality and rates specified by the government. Crop On Sale provides a market chain to farmers by collecting their products in fresh form and delivering them to the customers. The quality of products and satisfaction of the customer is the primary aim of our application.
+I’m currently working as **System Engineer** @ **TCS** and working on Crop On Sale, a web application and will act as an interface between customers and farmers. Crop On Sale the initiative of providing fresh organic food to the customers at their doorsteps with free home delivery and with premium quality and rates specified by the government. Crop On Sale provides a market chain to farmers by collecting their products in fresh form and delivering them to the customers. The quality of products and satisfaction of the customer is the primary aim of our application.
 
 Skills:
 - Python, C, Java
