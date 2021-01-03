@@ -16,7 +16,7 @@ Skills:
 - Python, C, Java
 - HTML, CSS, JavaScript & Bootstrap
 - Flask & Django (Python Frameworks)
-- MongoDB, SQLite3, Postgres
+- MongoDB, SQLite3, PostgreSQL
 - Public Speaking
 
 I like to:
