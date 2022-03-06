@@ -1,5 +1,5 @@
 # Hola! 👋, I'm Chandu Siddartha Reddy Gooty
-![logo](https://github.com/siddartha19/siddartha19/blob/master/Software%20Developer.png)
+![logo](https://github.com/siddartha19/siddartha19/blob/master/My%20LinkedIn%20Banner.png)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/siddartha19/">LinkedIn</a> -
