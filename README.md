@@ -3,9 +3,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/siddartha19/">LinkedIn</a> -
-  <a href="https://www.stopstalk.com/user/profile/siddartha19">Stop Stalk</a> -
-  <a href="https://www.codechef.com/users/chandu519">CodeChef</a> -
-  <a href="http://farmfork.herokuapp.com/">CropOnSale (Recent Project)</a>
+  <a href="https://www.investormate.io/">InvestorMate</a> -
+  <a href="http://croponsale.com/">CropOnSale</a>
 </p>
 
 I'm, a Software developer living near Bengaluru, specialized in **Python** **Flask & Django (Python Frameworks)**. I've been a **Python Programmer**, since **November 2018**. 
@@ -34,5 +33,5 @@ I like to:
 
 
 ### Find me around the web 🌎 :
-- Social Networking [LinkedIn](https://www.linkedin.com/in/siddartha19/)
+- Social Networking [Twitter](https://twitter.com/ChanduGooty)
 - Coding Handle [CodeChef](https://www.codechef.com/users/chandu519)
