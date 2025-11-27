@@ -7,22 +7,16 @@
   <a href="http://croponsale.com/">CropOnSale</a>
 </p>
 
-I'm, a Software developer living near Bengaluru, specialized in **Python** **Django & ReactJs (Web Development Frameworks)**. I've been a **Python Programmer**, since **November 2018**. 
+I’m a startup generalist who loves taking ideas from 0 to 1 quickly. I work across product, engineering, and sales, which lets me ship quickly, validate with customers, and iterate until the solution truly clicks.
 
-I’m currently working as **Founding Engineer** @ **AiPrise**. Apart from my full-time work, I am working on InvestorMate a one-stop solution for all cryptocurrency enthusiasts. InvestorMate is a community-based platform for cryptocurrency investors where investors can build community, get the latest news, have discussions around cryptos, and buy/sell/transfer crypto coins. InvestorMate gives the best solution by offering a verified community, trustable resources, and a reliable platform for crypto investors.  Before InvestorMate I used to work on Crop On Sale. It is a web application that will act as an interface between customers and farmers. Crop On Sale is the initiative of providing fresh organic food to the customers at their doorsteps with free home delivery and with premium quality and rates specified by the government. Crop On Sale provides a market chain to farmers by collecting their products in fresh form and delivering them to the customers. The quality of products and satisfaction of the customer is the primary aim of our application.
+I’m currently a founding engineer at a YC startup, where I joined as the third employee and helped scale it from 0 to $70M. Previously, I was the first engineer at another YC-backed startup that grew from zero to $ 40 million. In both companies, I’ve worn every hat during my experience, building core features, defining product requirements, talking to customers, and helping drive growth.
 
-Skills:
-- Python, C, Java
-- HTML, CSS, JavaScript & Bootstrap
-- Flask & Django (Python Frameworks)
-- MongoDB, SQLite3, PostgreSQL
-- Public Speaking
+What excites me most is building things that have a huge impact: understanding the problem, shaping the product, shipping quickly, and watching users love what I’ve built. I thrive in early-stage chaos and move fast to turn ambiguous ideas into real, working software.
 
-I like to:
-- develop the software that would solve the real problems and makes the world a better place.
-- flexibility and trust: I work for people that care about outcomes
-- push my limits in competitive programming
-- help the community around me by sharing my knowledge
+Outside my startup roles, I’ve built and shipped multiple independent products:
+InvestorMate (investormate.io), HealthAI (POC acquired), AIDA (AI Data Analyst), and CropOnSale (a POC we provided free of cost to the Government of Andhra Pradesh). These experiences sharpened my bias for action, my ability to validate fast, and my passion for turning big, ambiguous problems into real, working solutions.
+
+I’m also passionate about mentoring and giving back to the community, helping others grow in their own journeys. 
 
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddartha19&title_color=fff&text_color=9f9f9f&bg_color=151515&hide=jupyter%20notebook" alt="Siddartha's github stats" />
