@@ -1,9 +1,8 @@
-![banner](https://github.com/siddartha19/siddartha19/blob/master/My%20LinkedIn%20Banner.png)
 
-<h1 align="center">Hey 👋 I'm Chandu Siddartha</h1>
-<h3 align="center">Founding Engineer • Startup Builder • AI × Fintech × Compliance</h3>
+<h1 align="left">Hey 👋 I'm Chandu Siddartha</h1>
+<h3 align="left">Founding Engineer • Startup Builder • AI × Fintech × Compliance</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/siddartha19/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -47,7 +46,7 @@ If you're building something ambitious in AI, fintech, or infrastructure — let
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=siddartha19&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
