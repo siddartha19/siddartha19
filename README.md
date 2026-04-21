@@ -1,6 +1,6 @@
 
 <h1 align="left">Hey 👋 I'm Chandu Siddartha</h1>
-<h3 align="left">Founding Engineer • Startup Builder • AI × Fintech × Compliance</h3>
+<h3 align="left">Founding Engineer • Startup Builder • AI x SAAS × Fintech × Compliance</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/siddartha19/">
